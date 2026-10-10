@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12343B,50:1D6670,100:70B7A1&height=220&section=header&text=Md.%20Mahmudur%20Rahman&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20Civil%20Engineer&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Md. Mahmudur Rahman — Full-Stack Web Developer and Civil Engineer" />
 
-<a href="https://mahmud75.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1D6670?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://mahmud75.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1D6670?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/md-mahmudur-rahman-8125991ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/mahmudurrahman75"><img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
